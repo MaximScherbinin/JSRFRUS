@@ -1,6 +1,8 @@
 # JSRFRUS
 Russian translation for Jet Set Radio Future (Xbox, 2002). Original game by SEGA.
 
+Only contains translated/modified files.
+
 Works on EU version only.
 
 Status: Complete!
