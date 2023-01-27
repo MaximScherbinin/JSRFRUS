@@ -10,7 +10,7 @@ Status: Complete!
 # Features
 * Remade and translated 3D models
 * Redrawn UI textures
-* Restored Japanese-exclusive dialogues from post-game
+* Restored Japanese-exclusive dialogues from post-game (available for English version, download Restoration mod at [JSRF Mod Manager](https://jsrf-inside.blogspot.com/2022/08/jsrf-mod-manager-browse-download-and.html))
 * Fixed original game's issues - two DJPK voice clips not being played, voice clips cut off early, etc
 * Adjusted subtitle time duration for comfort reading
 * Renamed characters into Russian
